@@ -1,0 +1,1 @@
+I regularly practice and upload C programs for my Design and Analysis of Algorithms course. These daily codes help me strengthen problem-solving skills, understand algorithmic concepts, analyze time complexity, and improve implementation logic. This repository reflects my consistent learning progress and hands-on **practice** with fundamental algorithms.
